@@ -1,0 +1,111 @@
+body{
+   text-align: left;
+margin-left: -auto;
+}
+.heading{
+/* text-align: left; */
+margin-left: 2em;
+/* padding-left: 20%; */
+}
+.head{
+    padding: 50%;
+    margin: 5%;
+}
+.div12{
+padding-right: 25em;
+margin-left: 0%;
+}
+.MISSION{
+    padding-left: 55%;
+    font-size: medium;
+}
+.div1,.div2{
+border: solid rgb(197, 197, 201);
+border-radius: 2em;
+margin-right: 5em;
+margin-left: 15em;
+padding-left: 5em;
+padding-right: 4em;
+}
+.our-services{
+text-align: center;
+padding-left: 7em;
+}
+.business{
+    background-color: brown;
+    color: white;
+    padding: 1em;
+    border: solid brown;
+border-top-left-radius: 2em;
+border-top-right-radius: 2em;
+padding-right: 1.3em;
+}
+.ICT{
+    background-color: brown;
+    color: white;
+    padding: 1em;
+    border: solid brown;
+border-top-left-radius: 2em;
+border-top-right-radius: 2em;
+margin-right: 1em;
+padding-right: 1.6em;
+padding-left: 2em;
+font-size: medium;
+text-align: center;
+}
+.ACADEMY{
+    background-color: brown;
+    color: white;
+    padding: 1em;
+    border: solid brown;
+border-top-left-radius: 2em;
+border-top-right-radius: 2em;
+padding-right: 3.1em;
+padding-left: 3em;
+text-align: center;
+}
+.container{
+    margin: 2em;
+    float: right;
+    padding-inline-start: -1em;
+   border-width: 5em;
+   height: 2em;
+   padding-bottom: 2em;
+   margin-bottom: 5em;
+   /* box-shadow: 10px 10px 5px blur; */
+}
+
+.inline{
+    padding: 2%;
+    float: left;
+}
+ul{
+    border: solid rgb(231, 229, 225);
+    box-shadow: 10px 10px solid black;
+    border-style: outset;
+    padding-right: 1em;
+    height: 17em;
+    box-sizing:content-box;
+    margin-bottom: 4em;
+}
+ul,.inline{
+     border-radius: 2em; 
+     border-top-left-radius: 2%;
+     border-top-right-radius: 2%;
+     width: 7em;
+     padding-right: 2em;
+}
+.line{
+    display: inline-block;
+    margin-left: 0em;
+    margin-right: 0em;
+ margin-bottom: 2em;  
+}
+.inline-range{
+    align-items: center;
+    text-align: left;
+    margin-left: 3em;
+    box-shadow: 20px 5px;
+    margin-bottom: 5em;
+    height: 0em;
+}
